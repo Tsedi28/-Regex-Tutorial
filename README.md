@@ -122,3 +122,15 @@ Back-references are not included in the given code.
 ### Look-ahead and Look-behind
 
 If using a look-ahead or look-behind, then it has to match in a certain order. It is not being used in the given matching an email code. 
+
+## Author
+
+This tutorial was created by Tsedenia Bogale.
+
+Conatct Tsedi:
+
+[GitHub](https://github.com/Tsedi28)
+
+[Email](tsedi22@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/tsedenia-b-037160a1/)
