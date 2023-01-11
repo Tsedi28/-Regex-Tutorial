@@ -1,5 +1,8 @@
 # -Regex-Tutorial
-This Regex (Regular Expression) tutorial is created to help you understand and define the sequence of special characters to verify a search term. A Regex is a sequence of characters that defines a specific search pattern. When included in code or search algorithms, regular expressions can be used to find certain patterns of characters within a string, or to find and replace a character or sequence of characters within a string. They are also used frequently to validate input data.
+
+# Regular Expressions Tutorial
+
+The purpose of this gist is to walk through what a regular expression is and how to use them. Regular Expressions (Regex) can be used when one is trying to match a certain character combination within a string. This is great for pulling out information from a given body of code as well as being used for validation. For example, this tutorial will follow an example code snippet that can be used to match an email. This tutorial will follow the different components of regular expressions. 
 
 ## Summary
 
