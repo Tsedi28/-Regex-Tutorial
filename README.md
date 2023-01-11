@@ -63,3 +63,7 @@ This is a regex for matching a hex code that uses the OR Operator.
 What this will do is it will match where it starts with the `#` and that has to come first followed by one of the following:
 
 `[a-f0-9]{6}` which will match a 6 character long string that contains a combination of a-f letters and 0-9 numbers. 
+
+`|` OR Operator
+
+`[a-f0-9]{3}` it will match a 3 character long string that contains a combination of a-f letters and 0-9 numbers. 
