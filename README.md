@@ -131,6 +131,6 @@ Conatct Tsedi:
 
 [GitHub](https://github.com/Tsedi28)
 
-[Email](tsedi22@gmail.com)
+[Email]()
 
-[LinkedIn](https://www.linkedin.com/in/tsedenia-b-037160a1/)
+[LinkedIn]()
